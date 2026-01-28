@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: fix-invalid-widgets
+        name: Fix invalid metadata.widgets in notebooks
+        entry: python Bonus/nb_converter.py
+        language: system
+        files: \.ipynb$

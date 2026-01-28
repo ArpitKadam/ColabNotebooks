@@ -13,3 +13,4 @@ huggingface_hub
 accelerate
 wandb
 weave
+pre-commit
