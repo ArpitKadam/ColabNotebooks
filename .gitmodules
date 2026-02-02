@@ -1,0 +1,3 @@
+[submodule "LLM-Applications/Guidely.ai"]
+	path = LLM-Applications/Guidely.ai
+	url = https://github.com/ArpitKadam/Guidely.ai
