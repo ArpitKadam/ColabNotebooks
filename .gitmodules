@@ -1,3 +1,6 @@
 [submodule "LLM-Applications/Guidely.ai"]
 	path = LLM-Applications/Guidely.ai
 	url = https://github.com/ArpitKadam/Guidely.ai
+[submodule "LLMs-from-Scratch/Nano-GPT-OSS-580M"]
+	path = LLMs-from-Scratch/Nano-GPT-OSS-580M
+	url = https://github.com/ArpitKadam/Nano-GPT-OSS-580M
